@@ -37,5 +37,5 @@
     <a href="#"><img alt="PostgreSQL" src="https://img.shields.io/static/v1?style=for-the-badge&message=PostgreSQL&color=222222&logo=PostgreSQL&logoColor=4169E1&label="></a>
     <a href="#"><img alt="Postman" src="https://img.shields.io/static/v1?style=for-the-badge&message=Postman&color=222222&logo=Postman&logoColor=FF6C37&label="></a>
     <a href="#"><img alt="Ubuntu" src="https://img.shields.io/static/v1?style=for-the-badge&message=Ubuntu&color=222222&logo=Ubuntu&logoColor=E95420&label="></a>
-    <a href="#"><img alt="Red Hat" src="https://img.shields.io/static/v1?style=for-the-badge&message=Red+Hat&color=222222&logo=Red+Hat&logoColor=EE0000&label="></a>
+    <a href="#" style="background-color: #eee"><img alt="Red Hat" src="https://img.shields.io/static/v1?style=for-the-badge&message=Red+Hat&color=222222&logo=Red+Hat&logoColor=EE0000&label="></a>
 </p>
