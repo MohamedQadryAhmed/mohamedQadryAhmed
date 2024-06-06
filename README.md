@@ -26,6 +26,7 @@
     <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-2c292d?style=for-the-badge&message=Bootstrap&color=dfdfdf&logo=Bootstrap&logoColor=7952B3&label="></a>
     <a href="#"><img alt="TailwindCSS" src="https://img.shields.io/static/v1?style=for-the-badge&message=Tailwind+CSS&color=dfdfdf&logo=Tailwind+CSS&logoColor=06B6D4&label="></a>
     <a href="#"><img alt="React" src="https://img.shields.io/static/v1?style=for-the-badge&message=React&color=dfdfdf&logo=React&logoColor=61DAFB&label="></a>
+    <a href="#"><img alt="React" src="https://img.shields.io/static/v1?style=for-the-badge&message=Redux&color=dfdfdf&logo=Redux&logoColor=61DAFB&label="></a>
     <a href="#"><img alt="Django" src="https://img.shields.io/static/v1?style=for-the-badge&message=Django&color=dfdfdf&logo=Django&logoColor=092E20&label="></a>
     <a href="#"><img alt="Flask" src="https://img.shields.io/static/v1?style=for-the-badge&message=Flask&color=dfdfdf&logo=Flask&logoColor=EE0000&label="></a>
     <a href="#"><img alt="Odoo" src="https://img.shields.io/static/v1?style=for-the-badge&message=Odoo&color=dfdfdf&logo=Odoo&logoColor=EE0000&label="></a>
